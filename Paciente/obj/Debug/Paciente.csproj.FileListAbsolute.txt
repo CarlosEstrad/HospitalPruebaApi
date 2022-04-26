@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\Hospital\Paciente\bin\Debug\Paciente.dll.config
+C:\Users\Usuario\source\repos\Hospital\Paciente\bin\Debug\Paciente.dll
+C:\Users\Usuario\source\repos\Hospital\Paciente\bin\Debug\Paciente.pdb
+C:\Users\Usuario\source\repos\Hospital\Paciente\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\source\repos\Hospital\Paciente\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\source\repos\Hospital\Paciente\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\source\repos\Hospital\Paciente\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\source\repos\Hospital\Paciente\obj\Debug\Paciente.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Hospital\Paciente\obj\Debug\Paciente.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Hospital\Paciente\obj\Debug\Paciente.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Hospital\Paciente\obj\Debug\Paciente.dll
+C:\Users\Usuario\source\repos\Hospital\Paciente\obj\Debug\Paciente.pdb
